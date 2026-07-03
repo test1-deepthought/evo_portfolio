@@ -1,0 +1,29 @@
+{
+  "portfolio_id": "main",
+  "snapshot_date": "2026-07-03",
+  "price_date": "2026-07-02",
+  "total_value": 99864.32,
+  "total_cost_basis": 97990.00,
+  "unrealized_pl": 1874.32,
+  "unrealized_pl_pct": 1.91,
+  "position_count": 10,
+  "sector_count": 7,
+  "largest_position_symbol": "UNH",
+  "largest_position_weight": 10.22,
+  "concentration_warning": false,
+  "best_performer_symbol": "AAPL",
+  "best_performer_pl": 436.16,
+  "worst_performer_symbol": "TSLA",
+  "worst_performer_pl": -163.75,
+  "positive_pl_count": 9,
+  "negative_pl_count": 1,
+  "max_weight_deviation_from_equal": 0.37,
+  "equal_weight_target": 10.0,
+  "herfindahl_index": 100.5,
+  "metrics": {
+    "mean_weight": 10.0,
+    "weight_std": 0.12,
+    "sector_diversity_score": 0.86
+  },
+  "snapshot_type": "daily"
+}
