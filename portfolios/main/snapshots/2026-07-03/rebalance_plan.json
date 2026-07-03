@@ -1,0 +1,25 @@
+{
+  "portfolio_id": "main",
+  "snapshot_date": "2026-07-03",
+  "analysis_date": "2026-07-03",
+  "target_strategy": "equal_weight",
+  "current_state": {
+    "total_value": 99864.32,
+    "equal_target_per_position": 9986.43
+  },
+  "rebalance_deltas": [
+    {"symbol": "AAPL", "current_value": 9876.16, "target_value": 9986.43, "delta": 110.27, "action": "buy", "shares_delta": 0.36},
+    {"symbol": "MSFT", "current_value": 10152.74, "target_value": 9986.43, "delta": -166.31, "action": "sell", "shares_delta": -0.43},
+    {"symbol": "NVDA", "current_value": 9936.33, "target_value": 9986.43, "delta": 50.10, "action": "buy", "shares_delta": 0.26},
+    {"symbol": "AMZN", "current_value": 9949.47, "target_value": 9986.43, "delta": 36.96, "action": "buy", "shares_delta": 0.15},
+    {"symbol": "TSLA", "current_value": 9836.25, "target_value": 9986.43, "delta": 150.18, "action": "buy", "shares_delta": 0.38},
+    {"symbol": "JPM",  "current_value": 10034.10, "target_value": 9986.43, "delta": -47.67, "action": "sell", "shares_delta": -0.14},
+    {"symbol": "UNH",  "current_value": 10208.64, "target_value": 9986.43, "delta": -222.21, "action": "sell", "shares_delta": -0.52},
+    {"symbol": "XOM",  "current_value": 10007.57, "target_value": 9986.43, "delta": -21.14, "action": "sell", "shares_delta": -0.15},
+    {"symbol": "WMT",  "current_value": 9953.76, "target_value": 9986.43, "delta": 32.67, "action": "buy", "shares_delta": 0.29},
+    {"symbol": "META", "current_value": 9909.30, "target_value": 9986.43, "delta": 77.13, "action": "buy", "shares_delta": 0.13}
+  ],
+  "total_turnover": 10.74,
+  "rebalance_required": false,
+  "notes": "All positions within 0.4% of equal weight target. Rebalance not justified by transaction costs. Snapshot archived for historical comparison."
+}
